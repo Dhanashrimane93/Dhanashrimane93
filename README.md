@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhanashri mane
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science, Data Analytics and Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data science
 
